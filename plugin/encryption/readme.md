@@ -29,8 +29,8 @@ sensors.init();
 ```javascript
 <script charset='UTF-8' src="在 github 下载新版本的 index.amd.js "></script>
 <script>
-	var AesEncryption = window['sensorsPlugin_AesEncryption'];
-	//需要在 init 之前注册插件
+  var AesEncryption = window['sensorsPlugin_AesEncryption'];
+  //需要在 init 之前注册插件
   sensors.usePlugin(AesEncryption,{
         k:'加密密钥',
         kid: '密钥编号',
@@ -49,6 +49,6 @@ sensors.init();
 主 SDK 版本回退至 SDK 版本号 >= 0.1.2 版本时 ，只下线加密插件  
 * 开启加密后，如果服务端不支持解密，数据无法入库，会丢失，埋点管理中不会有报错
 * 版本要求：
-We 码小程序 SDK v.0.1.2 及以上版本   
+We 码小程序 SDK v.0.1.3 及以上版本   
 Edge v0.3.0及以上的版本   
 SDF 2.3及以上的版本   
