@@ -29,3 +29,6 @@
 
 | [《数据驱动：从方法到实践》](https://item.jd.com/12322322.html) | [《Android 全埋点解决方案》](https://item.jd.com/12574672.html) | [《iOS 全埋点解决方案》](https://item.jd.com/12867068.html)
 | ------ | ------ | ------ |
+
+## License
+[License 协议](https://github.com/sensorsdata/sa-sdk-wecode/blob/master/LICENSE)
