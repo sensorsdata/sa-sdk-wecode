@@ -29,8 +29,8 @@ sensors.init();
 ```javascript
 <script charset='UTF-8' src="在 github 下载新版本的 index.amd.js "></script>
 <script>
-  var AesEncryption = window['sensorsPlugin_AesEncryption'];
-  //需要在 init 之前注册插件
+	var AesEncryption = window['sensorsPlugin_AesEncryption'];
+	//需要在 init 之前注册插件
   sensors.usePlugin(AesEncryption,{
         k:'加密密钥',
         kid: '密钥编号',

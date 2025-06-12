@@ -1,4 +1,5 @@
-<img src="https://ow-file.sensorsdata.cn/www/home/header/sensors_header_icon.svg" width="200" >
+[![神策数据](https://opensource.sensorsdata.cn/wp-content/uploads/logo.png '神策数据')](https://www.sensorsdata.cn/)
+<br><br>
 
 [![License](https://img.shields.io/github/license/sensorsdata/sa-sdk-bytedancemini.svg)](https://github.com/sensorsdata/sa-sdk-bytedancemini/blob/master/LICENSE)
 [![GitHub release](https://img.shields.io/github/release/sensorsdata/sa-sdk-bytedancemini.svg)](https://github.com/sensorsdata/sa-sdk-bytedancemini/releases)
@@ -19,16 +20,6 @@
 
 请参见 [CHANGELOG.md](CHANGELOG.md)
 
-## 招聘信息
-
-招聘小程序 SDK 开发工程师，小程序 SDK 技术顾问，简历发送到邮箱 (shengyonggen@sensorsdata.cn)<br>
-详情可访问官网https://www.sensorsdata.cn/about/joinus.html
-
-
-## 新书推荐
-
-| [《数据驱动：从方法到实践》](https://item.jd.com/12322322.html) | [《Android 全埋点解决方案》](https://item.jd.com/12574672.html) | [《iOS 全埋点解决方案》](https://item.jd.com/12867068.html)
-| ------ | ------ | ------ |
-
 ## License
-[License 协议](https://github.com/sensorsdata/sa-sdk-wecode/blob/master/LICENSE)
+
+[License 协议](LICENSE)
